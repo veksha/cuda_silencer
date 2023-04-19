@@ -9,6 +9,7 @@ class Command:
             'Startup: ',
             'Tab Icons: ',
             "Detect Indent for '",
+            'Formatters: ',
         ]
 
     def run(self):
