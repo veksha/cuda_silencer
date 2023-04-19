@@ -1,0 +1,16 @@
+[info]
+title=Silencer
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda_silencer
+homepage=(Fill the GitHub repo URL)
+
+[item1]
+section=events
+events=on_start2
+
+[item2]
+section=commands
+caption=Silencer
+method=run
+
